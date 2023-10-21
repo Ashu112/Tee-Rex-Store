@@ -1,3 +1,9 @@
+:root{
+  --color-primary : #999DA0;
+  --color-white:#fff;
+  --color-black:#121212;
+}
+
 *{
   margin:0;
 }
